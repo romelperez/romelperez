@@ -1,0 +1,22 @@
+{
+  "name": "romelperez",
+  "version": "0.0.1",
+  "description": "Romel Pérez NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romelperez/romelperez.git"
+  },
+  "keywords": [
+    "personal"
+  ],
+  "author": "Romel Pérez (romelperez.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romelperez/romelperez/issues"
+  },
+  "homepage": "https://github.com/romelperez/romelperez#readme"
+}
