@@ -19,9 +19,9 @@
 
 ## Apps
 
-- [SoulExtract.com](https://github.com/soulextract/soulextract.com) - Soul Extract Official Website.
-- [RealWorldReact.com](https://github.com/realworldreact/realworldreact-website) - The website for Real World React.
 - [Simple Organizer](https://github.com/romelperez/simple-organizer) - Manage simple personal tasks.
+- [RealWorldReact.com](https://github.com/realworldreact/realworldreact-website) - The website for Real World React.
+- [SoulExtract.com](https://github.com/soulextract/soulextract.com) - Soul Extract Official Website.
 - [Xerox](https://github.com/romelperez/xerox) - Simple game space simulator.
 - [RealTime](https://github.com/calumet/realtime) - Real-time communication framework for university school website.
 - [Clima Client](https://github.com/calumet/clima-cliente) - Desktop app to read, process, and send weather data from station David Vantage Pro 2 to storage server.
