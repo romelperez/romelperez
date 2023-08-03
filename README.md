@@ -19,7 +19,6 @@
 
 ## Apps
 
-- [Simple Organizer](https://github.com/romelperez/simple-organizer) - Manage simple personal tasks.
 - [RealWorldReact.com](https://github.com/realworldreact/realworldreact-website) - The website for Real World React.
 - [SoulExtract.com](https://github.com/soulextract/soulextract.com) - Soul Extract Official Website.
 - [Xerox](https://github.com/romelperez/xerox) - Simple game space simulator.
