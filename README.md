@@ -4,6 +4,7 @@
 
 ## Libraries
 
+- [Yrel](https://github.com/romelperez/yrel) - JavaScript JSON schema validation with TypeScript type inference.
 - [Noxtron](https://github.com/romelperez/noxtron) - Real-Time JavaScript/TypeScript UI playground.
 - [Empanada](https://github.com/romelperez/empanada) - Simple data mock generator.
 - [Kantrux](https://github.com/romelperez/kantrux) - Ultralight web UI library for building static components with JSX support.
