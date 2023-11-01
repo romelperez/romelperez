@@ -6,7 +6,7 @@
 
 - [Yrel](https://github.com/romelperez/yrel) - JavaScript JSON schema validation with TypeScript type inference.
 - [Ivvy](https://github.com/romelperez/ivvy) - Svelte form manager with dynamic type safe validators and l10n/i18n support.
-- [Ukti](https://github.com/romelperez/ukti) - Type-safe l10n and i18n JavaScript utility.
+- [Ukti](https://github.com/romelperez/ukti) - ~1kB Type-safe i18n and l10n JavaScript utility.
 - [Noxtron](https://github.com/romelperez/noxtron) - Real-Time JavaScript/TypeScript UI playground.
 - [Empanada](https://github.com/romelperez/empanada) - Simple data mock generator.
 - [Kantrux](https://github.com/romelperez/kantrux) - Ultralight web UI library for building static components with JSX support.
