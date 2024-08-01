@@ -5,7 +5,7 @@
 ## Libraries
 
 - [Yrel](https://github.com/romelperez/yrel) - JavaScript JSON schema validation with TypeScript type inference.
-- - [Ukti](https://github.com/romelperez/ukti) - Type-safe i18n and l10n JavaScript utility.
+- [Ukti](https://github.com/romelperez/ukti) - Type-safe i18n and l10n JavaScript utility.
 - [Ivvy](https://github.com/romelperez/ivvy) - Svelte form manager with dynamic type safe validators and l10n/i18n support.
 - [Noxtron](https://github.com/romelperez/noxtron) - Real-Time JavaScript/TypeScript UI playground.
 - [Empanada](https://github.com/romelperez/empanada) - Simple data mock generator.
