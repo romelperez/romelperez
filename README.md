@@ -1,12 +1,12 @@
 ## Frameworks
 
-- [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [ARWES](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 
 ## Libraries
 
 - [Yrel](https://github.com/romelperez/yrel) - JavaScript JSON schema validation with TypeScript type inference.
+- - [Ukti](https://github.com/romelperez/ukti) - Type-safe i18n and l10n JavaScript utility.
 - [Ivvy](https://github.com/romelperez/ivvy) - Svelte form manager with dynamic type safe validators and l10n/i18n support.
-- [Ukti](https://github.com/romelperez/ukti) - ~1kB Type-safe i18n and l10n JavaScript utility.
 - [Noxtron](https://github.com/romelperez/noxtron) - Real-Time JavaScript/TypeScript UI playground.
 - [Empanada](https://github.com/romelperez/empanada) - Simple data mock generator.
 - [Kantrux](https://github.com/romelperez/kantrux) - Ultralight web UI library for building static components with JSX support.
